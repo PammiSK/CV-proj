@@ -2,3 +2,5 @@
 data/
 logs/
 myenv/
+*.jpg
+*.JPG
