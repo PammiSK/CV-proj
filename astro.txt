@@ -1,0 +1,47 @@
+
+    Directory: C:\Users\Siva\Downloads\CV Proj
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----           3/08/2024 11:45 PM                data
+d----           1/08/2024  5:31 AM                myenv
+-a---          24/07/2024  2:12 AM        5636109 20200323_182949.jpg
+-a---          24/07/2024  2:12 AM        7903080 20200329_180647.jpg
+-a---          24/07/2024  2:10 AM        1637210 20200521_194123.jpg
+-a---          24/07/2024  2:08 AM         634760 20200623_063048.jpg
+-a---          24/07/2024  2:07 AM        3229315 20210314_170556.jpg
+-a---          24/07/2024  2:07 AM         386099 20230926_070626.jpg
+-a---          24/07/2024  2:12 AM         657781 20231113_101615.jpg
+-a---          24/07/2024  2:10 AM        3271277 20240619_220408.jpg
+-a---          24/07/2024  2:08 AM         732697 20240619_220758.jpg
+-a---          24/07/2024  2:07 AM        6303915 50mm f28 ISO 800 x66 Auto Tone.jpg
+-a---           3/08/2024 11:01 PM             60 Astro.code-workspace
+-a---           4/08/2024  1:57 AM              0 astro.txt
+-a---          24/07/2024  2:11 AM       24942991 DSC00149 Raw Edit.JPG
+-a---          24/07/2024  2:11 AM       20455430 DSC00274 Raw Edit.JPG
+-a---          24/07/2024  2:10 AM       23325371 DSC00304 Raw Edit.JPG
+-a---          24/07/2024  2:10 AM       20262965 DSC00305 Raw Edit.JPG
+-a---          24/07/2024  2:10 AM       20104098 DSC00306 Raw Edit.JPG
+-a---          24/07/2024  2:09 AM       26891566 DSC00307 Raw Edit.JPG
+-a---          24/07/2024  2:08 AM        1026152 DSC00316 Raw Edit with Pointers.jpg
+-a---          24/07/2024  2:09 AM       21354133 DSC00316 Raw Edit.JPG
+-a---          24/07/2024  2:09 AM        7052893 DSC00500 16 9.jpg
+-a---          24/07/2024  2:07 AM         194193 DSC02258 Raw Edit.jpg
+-a---          24/07/2024  2:07 AM        4685824 DSC07607.JPG
+-a---          24/07/2024  2:07 AM          61267 DSC08200.JPG
+-a---          24/07/2024  2:07 AM         105409 DSC08740.JPG
+-a---          24/07/2024  2:13 AM        6029312 DSC09168.JPG
+-a---          24/07/2024  2:07 AM       26257308 DSC09239 Raw Edit.JPG
+-a---          24/07/2024  2:12 AM       17900752 DSC09258 Raw Edit (2).JPG
+-a---          24/07/2024  2:12 AM       26703934 DSC09258 Raw Edit COCE 16 9.jpg
+-a---          24/07/2024  2:11 AM       29223839 DSC09258 Raw Edit.JPG
+-a---          24/07/2024  2:07 AM       18318430 Orion.jpg
+-a---          24/07/2024  2:07 AM         154485 PICT_20211119_183139.JPG
+-a---          24/07/2024  2:07 AM       18713659 Pliades.jpg
+-a---          24/07/2024  2:08 AM         733289 Sgr A Star 3 1.jpg
+-a---          24/07/2024  2:08 AM        3107370 Sgr A Star 3 2.jpg
+-a---          24/07/2024  2:09 AM       20308466 StarStaX_DSC00320-DSC00491_gap_filling.jpg
+-a---          24/07/2024  2:08 AM       18700831 StarStaX_DSC00871 Raw Edit-DSC00908 Raw Edit_gap_filling.jpg
+-a---          24/07/2024  2:08 AM       26982066 StarStaX_DSC00913 Raw Edit-DSC01161 Raw Edit_gap_filling.jpg
+-a---          24/07/2024  2:08 AM       18840749 StarStaX_DSC04778-DSC05069_gap_filling.jpg
+

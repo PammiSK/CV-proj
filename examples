@@ -1,0 +1,37 @@
+,Field,ML Example,NN Example,DL Example,CV Example,RS Example
+0,Agriculture,Crop yield prediction,Disease detection in plants,Automated irrigation systems,Drone-based crop monitoring,Precision agriculture recommendations
+1,Architecture,Structural integrity analysis,Generative design,3D model generation,Building facade recognition,Material selection
+2,Biology,Gene expression analysis,Protein structure prediction,Genome sequencing,Cell image classification,Personalized medicine
+3,Chemistry,Chemical property prediction,Molecular structure prediction,Drug discovery,Microscopy image analysis,Chemical compound suggestions
+4,Climate+Weather,Weather forecasting,Climate modeling,Extreme weather event prediction,Satellite image analysis,Travel recommendations based on weather
+5,Complex Networks,Network traffic prediction,Social network analysis,Network anomaly detection,Network visualization,Connection recommendations
+6,Computer Networks,Traffic routing optimization,Intrusion detection systems,Network traffic classification,Network topology visualization,Service recommendations
+7,Cyber Security,Threat detection,Malware classification,Phishing detection,Face recognition for access control,Security tool recommendations
+8,Data Challenges,Data cleaning and preprocessing,Anomaly detection,Data augmentation,Image data extraction,Data tool suggestions
+9,Earth Science,Earthquake prediction,Soil composition analysis,Climate change impact analysis,Satellite image interpretation,Research paper recommendations
+10,Economics,Stock market prediction,Economic indicator forecasting,Credit risk assessment,Economic trend visualization,Financial product recommendations
+11,Education,Student performance prediction,Personalized learning paths,Automated grading systems,Handwriting recognition,Course recommendations
+12,Energy,Energy consumption prediction,Smart grid management,Renewable energy optimization,Infrared image analysis of facilities,Energy-saving tips
+13,Entertainment,Audience sentiment analysis,Scriptwriting assistance,Content generation,Scene recognition in videos,Movie recommendations
+14,Finance,Fraud detection,Loan default prediction,Automated trading systems,Document image analysis,Investment portfolio suggestions
+15,GIS,Land use classification,Geographic feature extraction,Urban planning,Aerial image analysis,Location-based service recommendations
+16,Government,Public policy impact analysis,Resource allocation optimization,Citizen sentiment analysis,Surveillance image analysis,Policy recommendations
+17,Healthcare,Disease outbreak prediction,Patient diagnosis assistance,Medical image analysis,X-ray and MRI image interpretation,Treatment plan recommendations
+18,Image Processing,Image enhancement,Image segmentation,Style transfer,Object detection in images,Image content recommendations
+19,Machine Learning,Model selection,Feature learning,Transfer learning,Image preprocessing,Algorithm recommendations
+20,Museums,Artifact classification,Visitor pattern analysis,Virtual museum tours,Artwork recognition,Exhibit recommendations
+21,Natural Language,Text classification,Machine translation,Text generation,OCR (Optical Character Recognition),Book recommendations
+22,Neuroscience,Brain activity analysis,Neural signal decoding,Brain image reconstruction,Neuroimaging analysis,Cognitive training program suggestions
+23,Physics,Particle collision prediction,Quantum state classification,High-energy physics simulations,Particle tracking in images,Research paper recommendations
+24,Prostate Cancer,Risk factor analysis,Tumor growth prediction,Prostate cancer image analysis,MRI image interpretation,Treatment plan recommendations
+25,Psychology+Cognition,Behavioral pattern recognition,Cognitive state prediction,Mental health monitoring,Emotion recognition,Therapy recommendations
+26,Public Domains,Public health trend analysis,Resource distribution optimization,Public data transparency,Crowd monitoring,Public service recommendations
+27,Search Engines,Query suggestion,Search ranking optimization,Voice search integration,Image search,Content recommendations
+28,Social Networks,User behavior analysis,Social influence prediction,Fake news detection,Image tagging and filtering,Friend recommendations
+29,Social Sciences,Social behavior modeling,Survey data analysis,Social trend prediction,Sociogram visualization,Social research tool recommendations
+30,Software,Bug prediction,Software usage pattern analysis,Code generation,GUI component detection,Software tool recommendations
+31,Sports,Performance analysis,Injury prediction,Game strategy optimization,Player movement analysis,Sports content recommendations
+32,Time Series,Sales forecasting,Anomaly detection in time series,Temporal pattern recognition,Sequence of events analysis,Event recommendations
+33,Transportation,Traffic flow prediction,Autonomous driving,Route optimization,Vehicle detection in traffic images,Travel route recommendations
+34,eSports,Player performance analysis,Game outcome prediction,Strategy optimization,Game scene recognition,Game recommendations
+35,Complementary Collections,Data integration,Feature extraction,Model ensemble techniques,Combined image data analysis,Multi-source recommendations
